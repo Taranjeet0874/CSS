@@ -1,0 +1,29 @@
+body{
+  background: #2ae2e8;
+}
+
+h1{
+  border-style: solid;
+}
+
+.thanks{
+  background-color: yellow;
+}
+h3{
+  color: purple;
+}
+#one{
+  color: purple;
+  text-decoration: overline;
+}
+
+h4{
+   color: purple;
+}
+.whole{
+  background-color: blue;
+  border: 3px dotted yellow;
+}
+.text{
+  background-color: white;
+}

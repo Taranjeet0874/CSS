@@ -1,0 +1,15 @@
+#one{
+  color: blue;
+  border-style: solid;
+  width: 25%;
+  text-align: center;
+  margin: auto;
+}
+#two{
+  color: red;
+  border-style: solid;
+  width: 50%;
+  text-align: center;
+  padding: 200px;
+  margin:auto;
+}

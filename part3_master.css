@@ -1,0 +1,23 @@
+.First{
+  color: green;
+}
+
+.Second{
+  color: red;
+}
+
+#singledout{
+  color: yellow;
+}
+
+h3+ul{
+  color: purple;
+  border: 4px double orange;
+}
+li a{
+  color: green;
+}
+li a[href="https://www.google.com"]{
+  color: red;
+  border: 5px dotted green
+}
